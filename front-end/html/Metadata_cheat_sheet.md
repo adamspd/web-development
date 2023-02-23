@@ -1,4 +1,4 @@
-# Table of content
+# Table of contents
 - [Metadata cheat sheet](#metadata-cheat-sheet)
   * [HTML `<meta>` tags](#html-meta-tags)
     + [Name](#name)
