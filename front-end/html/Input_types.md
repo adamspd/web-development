@@ -1,3 +1,28 @@
+# Table of Contents
+- [Input types](#input-types)
+    + [Button](#button)
+    + [Checkbox](#checkbox)
+    + [Radio](#radio)
+    + [Submit](#submit)
+    + [Text](#text)
+    + [Password](#password)
+    + [Date](#date)
+    + [Datetime-local](#datetime-local)
+    + [Email](#email)
+    + [File](#file)
+    + [Hidden](#hidden)
+    + [Image](#image)
+    + [Number](#number)
+    + [Range](#range)
+    + [Reset](#reset)
+    + [Search](#search)
+    + [Time](#time)
+    + [Tel](#tel)
+    + [Url](#url)
+    + [Week](#week)
+    + [Month](#month)
+
+
 # Input types
 
 This cheat sheet should be a reference to decide what type best suits your use case. Most of the inputs go hand in hand
