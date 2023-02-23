@@ -1,4 +1,4 @@
-## Table of content
+## Table of contents
 - [Semantic HTML cheat sheet](#semantic-html-cheat-sheet)
   * [Sectioning tags](#sectioning-tags)
     + [`<header>`](#header)
