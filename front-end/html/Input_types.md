@@ -241,3 +241,6 @@ supported by all the browsers.
 <label for="bdaymonth">Birthday (month and year):</label>
 <input type="month" id="bdaymonth" name="bdaymonth" min="1930-01" value="2000-01">
 ````
+
+### More links
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
