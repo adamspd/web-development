@@ -159,6 +159,20 @@ provide textual or numeric input other than the listed options.
 
 Represents the result of a calculation (typically the output of a script) or the outcome of the user action.
 
+```html
+<form method="post" action="https://adamspierredavid.com">
+  <div>
+    <label for="booking_date">Booking Date</label>
+    <input type="date" id="booking_date" name="booking_date">
+  </div>
+  <div>
+    <label for="booking_people">Number of people</label>
+    <input type="range" id="booking_people" name="booking_people" min="1" max="10" value="4" oninput="this.nextElementSibling.value = this.value">
+    <output>4</output>
+  </div>
+</form>
+```
+
 ### `<option>`
 
 Defines an option for the drop-down list. The following code example demonstrates how a simple list can be defined, with
