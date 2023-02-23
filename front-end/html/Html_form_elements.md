@@ -124,7 +124,7 @@ Defines a caption for the `<fieldset>` element. For example:
 </fieldset>
 
 <fieldset>
-    <legend>Qualificaiton</legend>
+    <legend>Qualification</legend>
     <label for="pdegree">Primary degree:</label><br>
     <input type="text" id="pdegree" name="degree" value="Masters"><br>
     <label for="fos">Last name:</label><br>
