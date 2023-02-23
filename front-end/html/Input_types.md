@@ -242,5 +242,5 @@ supported by all the browsers.
 <input type="month" id="bdaymonth" name="bdaymonth" min="1930-01" value="2000-01">
 ````
 
-### More links
+### Resources
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
