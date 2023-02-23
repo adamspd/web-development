@@ -74,3 +74,6 @@ requests directly via code and send data as part of the HTTP request body in a t
 Notation, or JSON. But that is a topic for another course.
 
 For now, practice building HTML forms and submitting data to the web server using the different attributes available. 
+
+### Resources
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
