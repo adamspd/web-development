@@ -1,3 +1,8 @@
+# Table of contents
+- [Submit](#submit)
+  * [Action and method](#action-and-method)
+
+
 # Submit
 
 You have recently learned about how forms are sent to web servers and the difference between Get and Post. In this
