@@ -125,3 +125,11 @@ accurately describe the iframe's content.
 <iframe src="history.html" title="An embedded document about the history of my family">
 </iframe> 
 ```
+
+## Resources
+
+[Embedded contents](https://studio.support.brightcove.com/publish/publishing/choosing-correct-embed-code.html)
+
+[Iframes](https://www.educba.com/iframes-in-html/)
+
+[Canva](https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php)

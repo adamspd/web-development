@@ -61,3 +61,8 @@ types are:
 
 Images will be important as you build websites and ensuring they are accessible will provide a better user experience
 for all visitors. 
+
+## Resources
+[Media](https://html.com/media/)
+
+[Media specifications](https://html.spec.whatwg.org/multipage/media.html)
