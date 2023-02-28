@@ -110,7 +110,7 @@ Determines the gap between columns
 
 `grid-row-gap: m-unit-1  m-unit-2`
 
-Determines the gap between columns
+Determines the gap between rows
 
 #### Alignment
 
