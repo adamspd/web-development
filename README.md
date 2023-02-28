@@ -18,3 +18,4 @@ Usable template &amp; explanation for web development.
 #### CSS
 * [Understanding Flexbox](front-end/css/Understanding_Flexbox.md)
 * [CSS unit of measurement](front-end/css/CSS_unit_of_measurement.md)
+* [Grids and flexbox cheat sheet](front-end/css/Grids_and_flexbox_cheat_sheet.md)
