@@ -22,3 +22,4 @@ Usable template &amp; explanation for web development.
 
 #### React
 * [JavaScript modules, imports - exports](front-end/react/JavaScript_modules_imports_exports.md)
+* [Transpiling JSX](front-end/react/Transpiling_JSX.md)
