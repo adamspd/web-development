@@ -19,3 +19,6 @@ Usable template &amp; explanation for web development.
 * [Understanding Flexbox](front-end/css/Understanding_Flexbox.md)
 * [CSS unit of measurement](front-end/css/CSS_unit_of_measurement.md)
 * [Grids and flexbox cheat sheet](front-end/css/Grids_and_flexbox_cheat_sheet.md)
+
+#### React
+* [JavaScript modules, imports - exports](front-end/react/JavaScript_modules_imports_exports.md)
