@@ -193,9 +193,3 @@ there's a menu, a footer, the shopping cart, etc.
 
 In conclusion, when you see a JSX element wrapping some other JSX element, you can easily understand that it's all just
 **props.children** in the background.
-
-
-
-
-
-
