@@ -157,10 +157,10 @@ The output of the above vanilla JavaScript line of code would be three number va
 
 **300**
 
-> :memo: **Note:** As a side-note, the term "vanilla JavaScript" is often used to describe the plain, regular JavaScript language syntax,
-without any framework-specific or library-specific code. For example, React is a library, so in this context, saying
-that a piece of code is "vanilla JavaScript" means that it doesn't need any special library to run. It can run in 
-"plain" JavaScript without any additional dependencies.
+> :memo: As a side-note, the term "vanilla JavaScript" is often used to describe the plain, regular JavaScript language syntax,
+> without any framework-specific or library-specific code. For example, React is a library, so in this context, saying
+> that a piece of code is "vanilla JavaScript" means that it doesn't need any special library to run. It can run in 
+> "plain" JavaScript without any additional dependencies.
 
 You could also write this code in ES5 syntax:
 
