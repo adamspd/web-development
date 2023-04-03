@@ -162,7 +162,7 @@ example:
 ```
 
 So, in the above structure, there's a **`Trunk`** JSX element, inside of which is a single **`Bag`** JSX element,
-holding an **`Apples`** and a **`Pairs`** JSX element.
+holding an **`Apples`** and a **`Pears`** JSX element.
 
 Before the end of this reading, consider this JSX element again:
 
