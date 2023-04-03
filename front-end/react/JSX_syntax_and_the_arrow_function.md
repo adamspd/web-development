@@ -132,9 +132,7 @@ code.
 To demonstrate how this works, let’s re-write the **`Nav`** component as a one-liner:
 
 ```jsx
-const Nav = () => <ul>
-    <li>Home</li>
-</ul>
+const Nav = () => <ul><li>Home</li></ul>
 ```
 
 Note that with the implicit return, you don't even have to use the curly braces that are compulsory function body
