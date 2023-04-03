@@ -27,3 +27,4 @@ Usable template &amp; explanation for web development.
 * [Dissecting props](front-end/react/Dissecting_props.md)
 * [Props and children](front-end/react/Props_and_children.md)
 * [Styling JSX elements](front-end/react/Styling_JSX_elements.md)
+* [JSX syntax and the arrow function](front-end/react/JSX_syntax_and_the_arrow_function.md)
