@@ -26,3 +26,4 @@ Usable template &amp; explanation for web development.
 * [Customizing the project](front-end/react/Customizing_the_project.md)
 * [Dissecting props](front-end/react/Dissecting_props.md)
 * [Props and children](front-end/react/Props_and_children.md)
+* [Styling JSX elements](front-end/react/Styling_JSX_elements.md)
