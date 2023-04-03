@@ -25,3 +25,4 @@ Usable template &amp; explanation for web development.
 * [Transpiling JSX](front-end/react/Transpiling_JSX.md)
 * [Customizing the project](front-end/react/Customizing_the_project.md)
 * [Dissecting props](front-end/react/Dissecting_props.md)
+* [Props and children](front-end/react/Props_and_children.md)
