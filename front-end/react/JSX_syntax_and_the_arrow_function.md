@@ -76,7 +76,7 @@ const Nav = (props) => {
 
 So, the way to think about this is the following:
 
-* The arrow itself can be thought of as the replacement for the **``function`** keyword.
+* The arrow itself can be thought of as the replacement for the **`function`** keyword.
 
 * The parameters that this arrow function accepts are listed before the arrow itself.
 
