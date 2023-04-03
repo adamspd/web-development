@@ -1,8 +1,8 @@
 # Props and children
 
-Previously, you learned that you could pass props to and within a component. But there is also a special prop known as *
-*props.children**, which is automatically passed to every component. In this reading, you’ll learn about *
-*props.children** and what its purpose is.
+Previously, you learned that you could pass props to and within a component. But there is also a special prop known as 
+**props.children**, which is automatically passed to every component. In this reading, you’ll learn about 
+**props.children** and what its purpose is.
 
 To understand the concept of **props.children**, consider the following real-life situation: you have a couple of
 apples, and you have a couple of pears. You'd like to carry the apples some distance, so obviously, you'll use a bag.
