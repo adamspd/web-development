@@ -104,8 +104,8 @@ You can then re-write this object literal:
 
 So, there's nothing special about this object, except for the fact that you’ve inlined it and placed it inside a pair of
 curly braces. Additionally, since it's just JavaScript, those CSS properties that would be hyphenated in plain CSS, such
-as, for example, **`font-size:40px`**, become camelCased, and the value is a string, making it look like this: *
-*`fontSize:"40px"`**.
+as, for example, **`font-size:40px`**, become camelCased, and the value is a string, making it look like this: 
+**`fontSize:"40px"`**.
 
 Besides inlining a style object literal, you can also save it in a variable, and then use that variable instead of
 passing an object literal.
