@@ -118,7 +118,7 @@ You could even make the **`Hello`** component more dynamic, by giving it its own
 <Example children={<Hello message="Hello there"/>}/>
 ```
 
-So, given the **`Bag`**,**`Apples`**, and**`Pears`** examples from the beginning of this reading, armed with this new
+So, given the **`Bag`**,**`Apples`**, and **`Pears`** examples from the beginning of this reading, armed with this new
 knowledge, how can you make it work?
 
 Here's how you'd render the **`Bag`** component with the **`Apples`** component as its **props.children**:
