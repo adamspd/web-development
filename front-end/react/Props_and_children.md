@@ -141,7 +141,9 @@ Effectively, the above syntax is the same as the two examples below.
 <Bag>
     <Apples color="yellow" number="5"/>
 </Bag>
+```
 
+```jsx
 <Bag>
     <Pears friend="Peter"/>
 </Bag>
