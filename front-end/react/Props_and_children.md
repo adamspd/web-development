@@ -85,8 +85,8 @@ Consider a very simple example:
 The **`Hello there`** text is a child of the Example JSX element. The Example JSX Element above is an "invocation" of
 the **Example.js** file, which, in modern React, is usually a function component.
 
-Now, did you know that this **`Hello there`** piece of text can be passed as a **named prop** when rendering the *
-*`Example`** component?
+Now, did you know that this **`Hello there`** piece of text can be passed as a **named prop** when rendering the 
+**`Example`** component?
 
 Here's how that would look like:
 
