@@ -44,8 +44,8 @@ function Pears(props) {
 }
 ```
 
-Now, the question is this: Let's say you want to have a **`Bag`** component, which can be used to "carry"**`Apples`**
-or**`Pears`**. How would you do that?
+Now, the question is this: Let's say you want to have a **`Bag`** component, which can be used to "carry" **`Apples`**
+or **`Pears`**. How would you do that?
 
 This is where **props.children** comes in.
 
